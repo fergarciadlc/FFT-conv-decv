@@ -2,6 +2,8 @@
 
 Matlab - GNU/Octave functions for Fast convolution and deconvolution using Fast Fourier Transform (FFT).
 
+![fft](https://user-images.githubusercontent.com/29163881/89087210-1e2c6f00-d359-11ea-8643-a15a4e5ea78c.png)
+
 Run the `example.m` script to see an example of the usage of the functions by filtering a white noise signal with an impulse response of a bandpass filter through FFT Convolution, and then by using the FFT deconvolution, extract the original IR using the original and filtered signals.
 
 ## FFT Convolution
