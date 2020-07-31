@@ -9,8 +9,7 @@ Run the `example.m` script to see an example of the usage of the functions by fi
 ## FFT Convolution
 The `fftconv.m` takes two parameters: an `x` row vector of a signal to be processed, and an `h` row vector of an Impulse Response signal, and returns a `y` vector with the fast convolution of the two signals.
 
-### Usage:
-    FFTCONV FFT convolution
+### Usage:    
     y = fftconv(x,h)
 
     x and h must be row vectors
