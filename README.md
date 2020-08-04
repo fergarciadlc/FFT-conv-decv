@@ -27,9 +27,3 @@ The `fftdec.m` takes two parameters: a row vector `out` of an affected/processed
     out = System Output, filtered/affected signal.
     in  = System Input, original signal.
     h = Impulse response -> h(n)
-
-
-## License:
-Copyright (c) 2020 Fernando García de la Cruz
-
-Licensed under the [MIT License](LICENSE).
