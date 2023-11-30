@@ -1,5 +1,7 @@
 # FFT-conv-decv
 
+Original Source: https://ccrma.stanford.edu/~jos/ReviewFourier/Example_FFT_Convolution.html 
+
 Matlab - GNU/Octave functions for Fast convolution and deconvolution using Fast Fourier Transform (FFT).
 
 ![fft](https://user-images.githubusercontent.com/29163881/89087730-d73f7900-d35a-11ea-9620-f84fa21761a6.png)
